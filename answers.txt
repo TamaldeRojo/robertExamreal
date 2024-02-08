@@ -1,0 +1,18 @@
+
+
+BASIC CONCEPTS:
+
+
+RestApi:
+
+    A rest full Api is an application that most of the times runs in the server, is basicly pieces of code that make responses to the ones that are making requests such 
+    a post,get,put.delete and so on in order to create a bigger application or do certains functions. 
+
+NodeJS:
+    NodeJS is the runtime that use javascript in order to be executed in the device that has it, is the main way to use javascript in the computer and compilete
+     the code in to something
+    else. 
+
+Express:
+    Express is a framework that allow us to make APIs using javascript as the laguange. It is very popular and it is used to make microservices or even complete backends with it
+
